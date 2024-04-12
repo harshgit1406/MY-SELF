@@ -1,3 +1,4 @@
+![logo](https://github.com/harshgit1406/MY-SELF/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm HARSH RAJ</h1>
 <h3 align="center">IoT professional passionate about connecting the physical world to the digital realm.</h3>
 
