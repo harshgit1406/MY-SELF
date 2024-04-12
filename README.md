@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm HARSH RAJ</h1>
 <h3 align="center">IoT professional passionate about connecting the physical world to the digital realm.</h3>
 
+
 - 🔭 I’m currently working on [Bharti Kisan](https://github.com/harshgit1406/BhartiKisan)
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **harsh14raj1111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jhoXTNtWojXpgpiCl0o0XF16cmsOGYLd/view?usp=sharing](https://drive.google.com/file/d/1jhoXTNtWojXpgpiCl0o0XF16cmsOGYLd/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/harshrajresume](https://bit.ly/harshrajresume)
 
 - ⚡ Fun fact **I think I am funny.**
 
